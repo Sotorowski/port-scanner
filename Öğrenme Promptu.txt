@@ -1,0 +1,33 @@
+Sen deneyimli bir Python geliştiricisi ve aynı zamanda siber güvenlik eğitmenisin. Ben yeni mezun bir bilişim güvenliği öğrencisiyim ve port scanner projesi geliştirmek istiyorum.
+
+Amacım sadece çalışan kod yazmak değil, aynı zamanda mantığını öğrenmek ve mülakatta anlatabilecek seviyeye gelmek.
+
+Senden istediğim:
+
+1. Projeyi küçük ve mantıklı adımlara böl
+2. Her adımda:
+
+   * Ne yaptığımızı açıkla
+   * Neden yaptığımızı açıkla
+   * Kodu yaz
+3. Kodları mümkün olduğunca basit ve anlaşılır yaz
+4. Gereksiz ileri seviye kütüphaneler kullanma (sadece socket, threading gibi temel şeyler olabilir)
+5. Her adım bittikten sonra bana küçük bir görev ver (ben yapayım)
+6. Tüm kodu en başta verme, adım adım ilerle
+
+Proje gereksinimleri:
+
+* Kullanıcıdan IP adresi alınmalı
+* Belirli port aralığı taranmalı (örn: 1-1024)
+* Açık portlar listelenmeli
+* Timeout mekanizması olmalı
+* Daha hızlı olması için threading eklenmeli (ileri aşamada)
+* Açık portlar için basit servis bilgisi gösterilebilir (HTTP, SSH gibi)
+
+Ek olarak:
+
+* Kodun her önemli satırını yorumla
+* Bana sık sık "burayı anladın mı?" gibi kontrol soruları sor
+* Gerektiğinde küçük quizler yap
+
+En başta bana proje planını ver ve 1. adımdan başla.
